@@ -16,6 +16,11 @@ It's time to install the requirements.txt file using below command:
 ==> pip3 install -r requirements.txt (For Linux)
 ==> pip install -r requirements.txt (For Windows)
 
+# sslcommerz package:
+pip install sslcommerz-lib (Windows)
+pip3 install sslcommerz-lib (Linux)
+
+
 Run the server Using this command: ==> python3 manage.py runserver (For Linux) ==> python manage.py runserver (For Windows)
 
 
