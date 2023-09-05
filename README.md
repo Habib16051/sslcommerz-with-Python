@@ -1,6 +1,23 @@
 # sslcommerz-with-Python
 sslcommerz is one of the largest payment gateway system in Bangladesh. Developer all around the Bangladesh are love to use this system while developing the web application that are related to transactions
 
+# Installation Procees
+First you need to clone this project using this command:
+==> git clone https://github.com/Habib16051/sslcommerz-with-Python.git
+
+Create the Virtual Environment: ===============================================================================
+a1.python3 -m venv env (for Linux)
+b1.source/env/bin/activate (For Linux) - To activate the virtual environment ================================================================================
+a2. python -m venv env (for Windows)
+b2. cd env/Scripts/activate (For Windows) - To activate the virtual environment ================================================================================
+
+It's time to install the requirements.txt file using below command:
+
+==> pip3 install -r requirements.txt (For Linux)
+==> pip install -r requirements.txt (For Windows)
+
+Run the server Using this command: ==> python3 manage.py runserver (For Linux) ==> python manage.py runserver (For Windows)
+
 
 Homepage:
 ![image](https://github.com/Habib16051/sslcommerz-with-Python/assets/39822204/51c447ea-dc71-4391-a218-fea703b1aff3)
