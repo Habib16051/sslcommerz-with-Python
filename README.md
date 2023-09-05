@@ -17,7 +17,8 @@ It's time to install the requirements.txt file using below command:
 ==> pip install -r requirements.txt (For Windows)
 
 # sslcommerz package:
-pip install sslcommerz-lib (Windows)
+pip install sslcommerz-lib (Windows)            
+
 pip3 install sslcommerz-lib (Linux)
 
 
